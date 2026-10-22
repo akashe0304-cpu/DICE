@@ -1,0 +1,8 @@
+Dependencies for Project 'dice', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x532C14EA)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\dice.c)(0x6AD9A9C5)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\dice.o --omf_browse .\dice.crf --depend .\dice.d)
+I (C:\Keil\ARM\Inc\Philips\lpc21xx.h)(0x532C1500)
+I (lcdheader.h)(0x6AD3AC27)
+I (delay.h)(0x6AD3AC12)
+F (.\lcdheader.h)(0x6AD3AC27)()
+F (.\delay.h)(0x6AD3AC12)()
